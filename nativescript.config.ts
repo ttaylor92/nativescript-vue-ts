@@ -1,7 +1,7 @@
 import { NativeScriptConfig } from '@nativescript/core';
 
 export default {
-  id: 'org.nativescript.myCoolApp',
+  id: 'org.nativescript.__PROJECT_NAME__',
   appPath: 'app',
   appResourcesPath: 'App_Resources',
   android: {
